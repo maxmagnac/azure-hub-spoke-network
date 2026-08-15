@@ -45,6 +45,8 @@ Hub to Spoke 2
 - Gateway or route server forwarding ⬜
 - Remote gateway or route server ⬜
 
+
+
 Screenshot Walkthrough
 01 - Hub VNet
 <img width="664" height="613" alt="01-hub-vnet" src="https://github.com/user-attachments/assets/6c354471-3a6d-4229-9976-644fe83327d9" />
