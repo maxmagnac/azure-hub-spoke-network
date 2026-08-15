@@ -49,36 +49,61 @@ Screenshot Walkthrough
 
 01 - Hub VNet
 Hub VNet (01-hub-vnet.png)
+<img width="664" height="613" alt="01-hub-vnet" src="https://github.com/user-attachments/assets/6c354471-3a6d-4229-9976-644fe83327d9" />
+
 
 02 - Spoke 1 VNet
 Spoke 1 VNet (02-spoke1-vnet.png)
+<img width="586" height="677" alt="02-spoke1-vnet" src="https://github.com/user-attachments/assets/47902d88-168f-4af1-827d-13001303f61e" />
+
 
 03 - Spoke 2 VNet
 Spoke 2 VNet (03-spoke2-vnet.png)
+<img width="577" height="662" alt="03-spoke2-vnet" src="https://github.com/user-attachments/assets/278360e2-462d-4b9f-be90-34fc24f166f3" />
+
 
 04 - Hub VNet Peerings Overview
 Hub VNet Peerings (04-hub-vnet-peerings.png)
+<img width="678" height="328" alt="04-hub-vnet-peerings" src="https://github.com/user-attachments/assets/517862e5-bb84-477d-b429-c4d733f16d16" />
+
+
+
 
 04a - Hub to Spoke 1 Peering (Remote Settings)
 Hub to Spoke 1 Remote (04a-hub-to-spoke1-peering-remote.png)
+<img width="759" height="587" alt="04a-hub-to-spoke1-peering-remote" src="https://github.com/user-attachments/assets/06e94467-6d61-4641-ab7c-e3bc800d9c90" />
+
 
 04b - Hub to Spoke 1 Peering (Local Settings)
 Hub to Spoke 1 Local (04b-hub-to-spoke1-peering-local.png)
+<img width="363" height="398" alt="04b-hub-to-spoke1-peering-local" src="https://github.com/user-attachments/assets/ec404861-87aa-4a0e-adce-7afeffdd7055" />
 
 05 - Spoke 1 VNet Peerings
 Spoke 1 Peerings (05-spoke1-vnet-peerings.png)
+<img width="879" height="317" alt="05-spoke1-vnet-peerings" src="https://github.com/user-attachments/assets/e04b811a-6daa-45a4-8806-2ce309abe2b1" />
+
 
 06 - Hub to Spoke 2 Peering (Remote Settings)
 Hub to Spoke 2 Remote (06-hub-to-spoke2-peering-remote.png)
+<img width="760" height="497" alt="06-hub-to-spoke2-peering-remote" src="https://github.com/user-attachments/assets/67f161a4-eaf1-4445-a726-b17c7e3633d0" />
+
 
 07 - Hub to Spoke 2 Peering (Local Settings)
 Hub to Spoke 2 Local (07-hub-to-spoke2-peering-local.png)
+<
+<img width="749" height="366" alt="07-hub-to-spoke2-peering-local" src="https://github.com/user-attachments/assets/366ab061-9c74-4a6c-a380-b35aaecc356e" />
+
 
 08 - Hub VNet Spoke 2 Peering Connected
 Spoke 2 Peering Connected (08-hub-vnet-spoke2-peering-connected.png)
+img width="815" height="38" alt="08-hub-vnet-spoke2-peering-connected" src="https://github.com/user-attachments/assets/702c9a1c-45f0-4dc9-9221-5d3e84da82e7" />
+
+
 
 09 - Spoke 2 VNet Peerings
 Spoke 2 Peerings (09-spoke2-vnet-peerings.png)
+<img width="880" height="325" alt="09-spoke2-vnet-peerings" src="https://github.com/user-attachments/assets/5e84e518-8cf9-487d-9837-31b19a21e43f" />
+
 
 Key Concepts
 
